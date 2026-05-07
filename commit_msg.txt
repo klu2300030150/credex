@@ -1,0 +1,5 @@
+﻿**Hours worked:** X
+**What I did:**create layout for my work app.
+**What I learned:** learned how to create a form.
+**Blockers / what I'm stuck on:**how make the form smaller of required for required amnner
+**Plan for tomorrow:** need to  add the css and okan to solve all bugs in my applcation
